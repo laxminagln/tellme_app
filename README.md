@@ -1,2 +1,2 @@
 # tellme_app
- An app to chechk your luck ;)
+ An app to check your luck ;)
